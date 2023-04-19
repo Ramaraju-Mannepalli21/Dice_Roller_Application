@@ -16,12 +16,12 @@ You need to know:
 
 How to Use
 --------------
-*Clone or download the repository from GitHub.
-*Open the project in Android Studio.
-*Build and run the project on an emulator or a physical device.
-*Click on the "Roll" button to roll the dice and display the corresponding image on the screen.
+* Clone or download the repository from GitHub.
+* Open the project in Android Studio.
+* Build and run the project on an emulator or a physical device.
+* Click on the "Roll" button to roll the dice and display the corresponding image on the screen.
 
 Technologies Used
 --------------
-*Java
-*Android Studio
+* Java
+* Android Studio
